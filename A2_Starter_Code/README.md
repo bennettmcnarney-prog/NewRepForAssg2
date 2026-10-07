@@ -9,9 +9,9 @@
 
 ## Branch Work
 
-- Feature branch created:
-- What changed on the branch:
-- Who merged it into `main`:
+- Feature branch created: feature-about
+- What changed on the branch: We added more to about the team section in a separate branch and then merged it into the main.
+- Who merged it into `main`: Brendan
 
 ## Conflict Reflection
 
