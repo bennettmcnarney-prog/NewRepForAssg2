@@ -6,7 +6,6 @@
 - GitHub username: bennettm
 - Student B: Brendan Engel
 - GitHub username: bnengel-sketch
-- GitHub username:
 
 ## Branch Work
 
