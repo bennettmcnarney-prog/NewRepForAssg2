@@ -16,8 +16,10 @@
 ## Conflict Reflection
 
 1. Why did the intentional conflict happen?
-
+   It happened because we didn't sync before editing our code.
 2. How did you resolve it?
-
+   We resolved by using the merge editor to make sure that current version matches what the final output was intended to be.
 3. ## Give two practices that can reduce unnecessary Git conflicts on a real team.
-   -
+   -Constantly pulling and syncng
+   -Making branches for each of your features
+   -Make a whiteboard to show what you're doing
